@@ -1,7 +1,7 @@
 #include <iostream>
 
 void xuatmang(int n){
-    for(int i=0; i < n; i++){
+    for(int i = 0; i < n; i++){
         std::cout<< "Thu tu cua mang theo thu tu tang dan la: " << std::endl; 
         std::cout << i << " ";
     }
